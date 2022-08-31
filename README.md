@@ -1,15 +1,8 @@
-# H.W-Bootstrap-HTML-CSS
-> Develope a website in HTML, CSS and Bootstrap, as show in the Demo inside the link bellow.
+#Maznah safar
 
-## Demo 
-https://www.w3schools.com/bootstrap4/trybs_template1.htm
-----------------------------------------------------------------------------------------------------------------------
-## Requairement:
-* screen Shot of your website.
-* be shor write your full name in the comment when you commit.
+![image](https://user-images.githubusercontent.com/110346393/187586306-4a774df1-203e-4cc9-b46d-bb00408ab899.png)
 
-----------------------------------------------------------------------------------------------------------------------
-## Helper links:
-> https://getbootstrap.com/docs/5.2/getting-started/introduction/
-> 
-> https://www.w3schools.com/bootstrap/bootstrap_ver.asp
+
+Maznah safar
+
+![image](https://user-images.githubusercontent.com/110346393/187586373-05a6c6e3-568e-4615-a1e3-8664ca3651f6.png)
